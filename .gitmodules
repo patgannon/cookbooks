@@ -1,0 +1,3 @@
+[submodule "mongodb-10gen"]
+	path = mongodb-10gen
+	url = https://github.com/higanworks-cookbooks/mongodb-10gen
