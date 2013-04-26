@@ -7,3 +7,6 @@
 [submodule "apt"]
 	path = apt
 	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "chef-mongodb"]
+	path = chef-mongodb
+	url = https://github.com/patgannon/chef-mongodb
